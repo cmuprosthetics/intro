@@ -4,8 +4,8 @@ const int f1_pin = 11;
 const int f2_pin = 6;
 const int f3_pin = 10;
 const int t_pin = 5;
-const int p_pin = 9;
-const int ts_pin = 3;
+const int p_pin = 3;
+const int ts_pin = 9;
 
 Servo f1;
 Servo f2;
