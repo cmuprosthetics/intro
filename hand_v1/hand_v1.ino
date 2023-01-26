@@ -36,9 +36,9 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  f3.write(0);
-  delay(1000);
-  f3.write(180);
-  delay(1000);
+//  p.write(45);
+//  delay(1000);
+//  p.write(75);
+//  delay(1000);
 
 }
